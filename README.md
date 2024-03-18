@@ -1,4 +1,4 @@
-# Kodluyoruz Bootstrap Linkedin-Clone Çalışması
+# Kodluyoruz JAVASCRİPT Bölüm Sonu Çalışması
 
 - Girilen sayının not olarak hangi harfa tekabül ettiğini hesaplayan bir javascript projesi
 - İçerik css, script ve html olarak 3 dosyadan oluşuyor.
